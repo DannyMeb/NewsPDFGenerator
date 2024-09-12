@@ -17,7 +17,7 @@ Here is a knowledge graph architecture where you can use this project to generat
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.10
 - News API key (obtain one from [News API](https://newsapi.org/))
 
 ## Installation
