@@ -4,7 +4,7 @@
 
 The goal of NewsPDFGenerator is to facilitate developers in collecting news articles to create a knowledge graph. This project fetches the latest news articles from various sources, saves them as PDF files categorized by topic, and merges the PDFs by category. It utilizes the News API to gather articles and generates PDF documents with the article content.
 
-![Screenshot 1](\images\RAG.png)
+![Application](images\RAG.png)
 
 ## Directory Structure
 
